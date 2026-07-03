@@ -3,7 +3,7 @@ from typing import List, Dict
 from qdrant_client import QdrantClient
 from elasticsearch import Elasticsearch
 
-from config import settings
+from app.config import settings
 
 
 class HybridRetriever:

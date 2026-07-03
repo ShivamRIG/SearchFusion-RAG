@@ -1,11 +1,11 @@
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from qdrant_client import QdrantClient
 from elasticsearch import Elasticsearch
-from reranker import Reranker
-from retrieval import HybridRetriever
-from generation import Generator
-from langfuse_client import LangfuseClient
-from config import settings
+from app.reranker import Reranker
+from app.retrieval import HybridRetriever
+from app.generation import Generator
+from app.langfuse_client import LangfuseClient
+from app.config import settings
 
 
 class HybridRAGPipeline:
