@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-community
+langchain-qdrant
+qdrant-client
+elasticsearch
+python-dotenv
+unstructured
+pypdf
+langfuse
+redis
+sentence_transformers
