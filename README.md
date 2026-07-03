@@ -541,9 +541,9 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ShivamRIG
 
-LinkedIn: https://linkedin.com/in/yourprofile
+
 
 ---
 
